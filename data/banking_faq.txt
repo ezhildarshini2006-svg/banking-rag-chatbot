@@ -1,0 +1,20 @@
+Savings Account
+A savings account allows customers to deposit money and earn interest. Customers can withdraw money using supported banking services.
+
+Personal Loan
+A personal loan is an unsecured loan that can be used for personal expenses. Interest rates and eligibility depend on the bank's policies.
+
+Credit Card
+A credit card allows customers to make purchases using a predefined credit limit. Customers must make payments according to their billing statement.
+
+Debit Card
+A debit card allows customers to make purchases and withdraw cash directly from their linked bank account.
+
+Fund Transfer
+Customers can transfer money between bank accounts using supported banking transfer services.
+
+Fixed Deposit
+A fixed deposit allows customers to deposit money for a specific period and earn interest according to the applicable rate.
+
+EMI
+EMI stands for Equated Monthly Instalment. It is the fixed amount paid periodically toward a loan.
